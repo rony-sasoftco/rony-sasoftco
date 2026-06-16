@@ -5,4 +5,4 @@
  
 Ingeniero Electrónico, Especialista en ingeniería de Software
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rony-trespalacios&show_icons=true)
+![Foto](https://avatars.githubusercontent.com/u/146136937?v=4)
